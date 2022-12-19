@@ -25,6 +25,7 @@
   - Type 'node index' to run file
 
   ![demo video](./assets/readme-demo.mp4)
+  github repo: https://github.com/michelletrn/readme-generator
  
   ## License
   N/A
